@@ -1,0 +1,30 @@
+.foterMain{
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	padding: 30px;
+}
+.foterMain p{
+	color: white;
+	padding: 15px 0;
+}
+.foterMain ul{
+	display: flex;
+	list-style: none;
+}
+.foterMain ul li{
+	padding: 20px;
+}
+.foterMain ul li a{
+	color: white;
+	transition: .5s;
+}
+.foterMain ul li a:hover{
+	color: tomato;
+}
+.foterMain p{
+	width: 100%;
+	text-align: center;
+}
