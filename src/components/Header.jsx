@@ -22,10 +22,10 @@ function Home(){
 				<div className={classes.menu} >
 					<MenuIcon onClick={meChange} />
 					<ul>
-						<li><Link to="/">Home</Link></li>
-						<li><Link to="/menu">menu</Link></li>
-						<li><Link to="/#">Faq</Link></li>
-						<li><Link to="/contact">Contact</Link></li>
+						<li key="5"><Link to="/">Home</Link></li>
+						<li key="6"><Link to="/menu">menu</Link></li>
+						<li key="7"><Link to="/#">Faq</Link></li>
+						<li key="8"><Link to="/contact">Contact</Link></li>
 					</ul>
 	 			</div>
 			</div> 
