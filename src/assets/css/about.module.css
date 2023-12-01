@@ -1,0 +1,23 @@
+.bgImg{
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 40vh;
+	width: 100%;
+}
+.content{
+	text-align: center;
+	padding: 80px 0;
+}
+.content h1{
+	padding: 0 30px;
+	display: inline-block;
+	max-width: 400px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.content p{
+	max-width: 550px;
+	margin: 0 auto;
+
+}
